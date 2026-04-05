@@ -1,0 +1,1 @@
+# Rage-s-fastfetch-config
