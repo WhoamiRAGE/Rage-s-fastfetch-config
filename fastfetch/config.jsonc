@@ -16,7 +16,7 @@
   "modules": [
     {
       "type": "title",
-      "format": "{#1}╭─────────────── {#}{user}"
+      "format": "{#1}╭─────────────── {#}{username}"
     },
 
     {
