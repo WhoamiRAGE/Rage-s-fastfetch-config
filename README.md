@@ -38,3 +38,4 @@ Quraşdırmaq üçün:
 ```bash
 curl -sSL https://raw.githubusercontent.com/WhoamiRAGE/Rage-s-fastfetch-config/main/install.sh | bash
 ```
+
