@@ -14,6 +14,10 @@ Custom ASCII art istifadə etmək üçün `~/.config/fastfetch/logo.txt` faylın
 Əgər heç nə etməsən, Fastfetch avtomatik olaraq distributivinin default ASCII art-ını göstərəcək.
 
 ---
+📸 Preview / Ön baxış
+
+<img width="1626" height="947" alt="image" src="https://github.com/user-attachments/assets/14d4236f-2e16-4c67-8611-7a98c561801f" />
+
 
 ## 🚀 Installation / Quraşdırma
 
