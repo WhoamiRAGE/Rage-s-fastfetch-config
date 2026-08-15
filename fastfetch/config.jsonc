@@ -16,7 +16,7 @@
   "modules": [
     {
       "type": "title",
-      "format": "{#1}╭─────────────── {#}{username}"
+      "format": "{#1}╭─────────────── {#}{user-name}"
     },
 
     {
@@ -43,8 +43,7 @@
     },
     {
       "type": "packages",
-      "key": "{#separator}│  {#keys}󰏖 pkgs   ",
-      "format": "{dpkg}"
+      "key": "{#separator}│  {#keys}󰏖 pkgs   "
     },
 
     {
