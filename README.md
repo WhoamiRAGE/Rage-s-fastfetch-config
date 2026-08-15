@@ -19,3 +19,14 @@ To install:
 curl -sSL https://raw.githubusercontent.com/WhoamiRAGE/Rage-s-fastfetch-config/main/install.sh | bash
 ```
 
+
+## Features
+
+- Custom two-column layout with icon keys (Nerd Font glyphs)
+- System age, uptime, package count, CPU/GPU/RAM, disk usage
+- Resolution, terminal, Wi-Fi SSID, and current date at a glance
+- Drop-in custom ASCII logo support via `~/.config/fastfetch/logo.txt`
+
+## License
+
+MIT — see [LICENSE](LICENSE).
